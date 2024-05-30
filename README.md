@@ -3,6 +3,7 @@
 
 Using the [MNIST](http://yann.lecun.com/exdb/mnist/) database, I created a neural network model that recognizes handwritten digits with an accuracy of **99.3%**. That is, it correctly predicted 9,931 out of 10,000 images.
 
+
 Network architecture:
 - Convolutional layer with 20  feature maps, 5 by 5 local receptive fields and a stride length of 1.
 - Max-pooling layer that pulls over 2 by 2 regions.
@@ -16,5 +17,5 @@ Network architecture:
 
 
 Reference:
-- http://neuralnetworksanddeeplearning.com/index.html
-- https://www.tensorflow.org/tutorials/keras/classification
+- [Nielsen, Michael. (2019). *Neural networks and deep learning*](http://neuralnetworksanddeeplearning.com/index.html)
+- [*Basic classification: Classify images of clothing*. TensorFlow](https://www.tensorflow.org/tutorials/keras/classification)
