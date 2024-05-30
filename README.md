@@ -1,5 +1,5 @@
 # digit-recognition
-Neural network model for classifying handwritten digits.
+**Neural network model for classifying handwritten digits.**
 
 Using the MNIST data set I created a neural network model that recognizes handwritten digits with an accuracy of **99.3%**. That is, it correctly predicted 9,931 out of 10,000 images.
 
@@ -12,7 +12,7 @@ Network architecture:
 - Fully-connected layer with 1000 neurons using RELU activation.
 - Output layer with 10 neurons using softmax activation.
 
-![network_architecture.jpg](attachment:network_architecture.jpg)
+
 
 Reference:
 - http://neuralnetworksanddeeplearning.com/index.html
