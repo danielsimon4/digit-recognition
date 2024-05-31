@@ -1,5 +1,5 @@
 # digit-recognition
-**Neural network model for classifying handwritten digits.**
+**Neural network model for classifying handwritten digits (image classification problem).**
 
 Using the [MNIST](http://yann.lecun.com/exdb/mnist/) database, I created a neural network model that recognizes handwritten digits with an accuracy of **99.3%**. That is, it correctly predicted 9,931 out of 10,000 images.
 
