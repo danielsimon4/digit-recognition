@@ -6,7 +6,10 @@ Using the [MNIST](http://yann.lecun.com/exdb/mnist/) database, I created a neura
 
 
 
-https://github.com/danielsimon4/digit-recognition/assets/155323325/efd8f037-097c-4b66-892a-60178b18ba94
+
+https://github.com/danielsimon4/digit-recognition/assets/155323325/519d1e12-ade4-4a58-93d7-94520c9a5ddf
+
+
 
 
 
