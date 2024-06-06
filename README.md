@@ -4,6 +4,11 @@
 Using the [MNIST](http://yann.lecun.com/exdb/mnist/) database, I created a neural network model that recognizes handwritten digits with an accuracy of **99.3%**. That is, it correctly predicted 9,931 out of 10,000 images.
 
 
+
+https://github.com/danielsimon4/digit-recognition/assets/155323325/118e4c2c-5860-465d-8bbc-e5a7712500ed
+
+
+
 Network architecture:
 - Convolutional layer with 20  feature maps, 5 by 5 local receptive fields and a stride length of 1.
 - Max-pooling layer that pulls over 2 by 2 regions.
