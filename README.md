@@ -1,9 +1,9 @@
 # digit-recognition
-**Convolutional neural network model to classify handwritten digits (image classification problem).**
+**Convolutional neural network model to recognize handwritten digits (image classification problem).**
 
 <br>
 
-Using the [MNIST](http://yann.lecun.com/exdb/mnist/) database, I created a neural network model that recognizes handwritten digits with an accuracy of **99.3%**. That is, it correctly predicted 9,931 out of 10,000 images.
+Using the [MNIST](http://yann.lecun.com/exdb/mnist/) database, I created a CNN model that recognizes handwritten digits with an accuracy of **99.3%**. That is, it correctly predicted 9,931 out of 10,000 images.
 
 <br>
 
@@ -11,9 +11,9 @@ https://github.com/danielsimon4/digit-recognition/assets/155323325/23ecb8be-b0b9
 
 <br>
 
-Network architecture:
+Convolutional Neural Network (CNN) architecture:
 
-![image](https://github.com/danielsimon4/digit-recognition/assets/155323325/ff8e876c-14a5-4e47-a343-1b9046b027f1)
+![alt text](image.png)
 
 
 Reference:
