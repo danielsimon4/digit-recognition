@@ -10,7 +10,6 @@ Using the [MNIST](http://yann.lecun.com/exdb/mnist/) dataset, I created a CNN mo
 https://github.com/danielsimon4/digit-recognition/assets/155323325/23ecb8be-b0b9-4b69-9557-eef23f1d749d
 
 <br>
-<br>
 
 Convolutional Neural Network (CNN) architecture:
 
