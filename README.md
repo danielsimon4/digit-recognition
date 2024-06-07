@@ -11,7 +11,7 @@ https://github.com/danielsimon4/digit-recognition/assets/155323325/23ecb8be-b0b9
 
 <br>
 
-Convolutional Neural Network (CNN) architecture:
+CNN architecture:
 
 ![alt text](image.png)
 
