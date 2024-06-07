@@ -17,5 +17,6 @@ CNN architecture:
 
 
 References:
-- [*Basic classification: Classify images of clothing*. TensorFlow](https://www.tensorflow.org/tutorials/keras/classification)
-- [Nielsen, Michael. (2019). *Neural networks and deep learning*](http://neuralnetworksanddeeplearning.com/index.html)
+- [Nielsen, Michael. (2019). Online Book. *Neural networks and deep learning*](http://neuralnetworksanddeeplearning.com/index.html)
+- [TensorFlow. (2020). *Basic classification: Classify images of clothing*](https://www.tensorflow.org/tutorials/keras/classification)
+- [NeuralNine. (2023). YouTube. *Modern Machine Learning Apps with Streamlit - No HTML, CSS, JS*](https://www.youtube.com/watch?v=_Syn5SpWgZ0&t=26s)
